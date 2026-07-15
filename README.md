@@ -10,7 +10,7 @@ This public repository contains the approved bounded descriptive results from th
 
 - Headless single-shot executions with fresh workspaces per slot
 - First-pass acceptance as the primary metric
-- Clopper–Pearson exact 95% confidence intervals
+- Clopper-Pearson exact 95% confidence intervals
 - Hidden evaluator boundary (contents not published)
 - Alphabetical presentation by requested model slug
 
@@ -32,7 +32,7 @@ source_release_ready_report_sha256 = ac28f2fedf94084459ad2c46e41e62d089eb0834362
 source_execution_seal_sha256 = c9528032128b54b8cc232a74a3d322cb7d9df74967b4581094657ad15a7c1d18
 source_analysis_freeze_sha256 = 34637ed9c14f3d9dc3eb91609dd4729ae90b20c86a197b47ff65f9c17e91c284
 source_publication_release_freeze_sha256 = 29a38efc967c5a18c7cbb0a58cedc7569dae10f3d4541d1ad150d666830055e2
-public_report_sha256 = d53ff9b0f83348f619b76c8690796bcfab9cbbcb35d89468d002e44ba30fcf54
+public_report_sha256 = 2efa3ea38981355e598de8be4112a092e9bda759fd9fa61d82b1ae13170c6cf1
 ```
 
 ## Explicit nonclaims
