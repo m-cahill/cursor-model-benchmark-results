@@ -16,7 +16,7 @@ This public repository contains the approved bounded descriptive results from th
 
 ## Bounded results report
 
-Read the full report: [M03_CURSOR_MODEL_BENCHMARK_BOUNDED_RESULTS.md](M03_CURSOR_MODEL_BENCHMARK_BOUNDED_RESULTS.md)
+Read the full report: [bounded results report](https://github.com/m-cahill/cursor-model-benchmark-results/blob/main/M03_CURSOR_MODEL_BENCHMARK_BOUNDED_RESULTS.md)
 
 ## Interpretation limits
 
@@ -32,7 +32,7 @@ source_release_ready_report_sha256 = ac28f2fedf94084459ad2c46e41e62d089eb0834362
 source_execution_seal_sha256 = c9528032128b54b8cc232a74a3d322cb7d9df74967b4581094657ad15a7c1d18
 source_analysis_freeze_sha256 = 34637ed9c14f3d9dc3eb91609dd4729ae90b20c86a197b47ff65f9c17e91c284
 source_publication_release_freeze_sha256 = 29a38efc967c5a18c7cbb0a58cedc7569dae10f3d4541d1ad150d666830055e2
-public_report_sha256 = 39087aa6315edf241985543fa7ad00c4b35228f772119f42beae9c409fca0154
+public_report_sha256 = d53ff9b0f83348f619b76c8690796bcfab9cbbcb35d89468d002e44ba30fcf54
 ```
 
 ## Explicit nonclaims
@@ -45,7 +45,7 @@ This publication does **not** claim a general Cursor model ranking, statistical 
 publication_tag = m03-bounded-results-v1.0.0
 public_license = CC-BY-4.0
 public_repository = cursor-model-benchmark-results
-public_url = pending
+public_url = https://github.com/m-cahill/cursor-model-benchmark-results
 ```
 
 ## License
