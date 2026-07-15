@@ -18,7 +18,7 @@ source_publication_release_freeze_sha256 = 29a38efc967c5a18c7cbb0a58cedc7569dae1
 display_names = resolved campaign mapping (secondary labels only)
 model_table_order = alphabetical by requested slug
 public_url = https://github.com/m-cahill/cursor-model-benchmark-results
-published_at_utc = 2026-07-15T04:28:38Z
+published_at_utc = 2026-07-15T04:33:51Z
 ```
 
 ---
